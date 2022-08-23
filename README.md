@@ -1,0 +1,2 @@
+# convolutionNN_from_scrach
+Built a neural network from scratch in without using any standard libraries like tensorflow and keras for image classification Implemented a 2D convolution framework(both forward and backward propagation) with activation(ReLU) and Softmax Used a 3D CNN Sequential model(built in TensorFlow and Keras)for validating the 2D model predictions on CIFAR-10 dataset Demonstrated 80% accuracy on the multi class classification problem with a single Convolution layer and max pool layer
